@@ -1,6 +1,6 @@
 # Prompt Engineering Portfolio
 
-**Name:** Rohini Patil  
+**Name:** Rupesh Patil  
 **Date:** 29 May 2026  
 **LLM Used:** ChatGPT (GPT-5.5)
 
